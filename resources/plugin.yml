@@ -1,0 +1,4 @@
+name: NoVoid
+main: XShockinFireX.MainClass
+version: "1.0.0"
+api: ["1.0.0"]
